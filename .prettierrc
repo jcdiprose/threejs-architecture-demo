@@ -1,0 +1,11 @@
+{
+  "printWidth": 90,
+  "tabWidth": 2,
+  "singleQuote": false,
+  "trailingComma": "es5",
+  "semi": false,
+  "newline-before-return": true,
+  "no-duplicate-variable": [true, "check-parameters"],
+  "no-var-keyword": true,
+  "endOfLine": "lf"
+}

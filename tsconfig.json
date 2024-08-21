@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "src/*": ["src/*"],
+      "vite": ["node_modules/vite"]
+    },
+    "lib": ["ES2015", "DOM"],
+    "module": "ESNext",
+    "target": "ESNext",
+    "moduleResolution": "Node",
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true
+  },
+  "include": ["vite.config.ts", "src/**/*.ts", "src/**/*.test.js"]
+}
